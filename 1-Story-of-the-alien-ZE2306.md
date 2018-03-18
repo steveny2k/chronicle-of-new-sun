@@ -24,11 +24,11 @@ However, our scientists were smarter, and they invented Artificial Intelligence,
 
 Scientists were quite cautious when designing The Mother and decided 2 rules:
 
-1. She can not terminate our species(Elda)'s life (or allow others to do so) who is naturally born (or is going to be naturally born). Natural birth is defined as birth through a mother.
+1, She can not terminate our species(Elda)'s life (or allow others to do so) who is naturally born (or is going to be naturally born). Natural birth is defined as birth through a mother.
 
 (The reason to strengthen natural birth is that TF's army is majorly formed from clones. So that The Mother would only kill TF's army and would not rebel against USB)
 
-2. She can not help (or allow others to do so) other species
+2, She can not help (or allow others to do so) other species
 
 (the reason is that TF was experimenting technologies to train apes and improve their intelligence to fight in the war; also scientist worry that The Mother may rebel against Eldas by training apes or other low-level species)
 
