@@ -1,5 +1,5 @@
 
-#Chronicles - aka simplified version of the main storyline
+# Chronicles - aka simplified version of the main storyline
 
 2020/1, an antimatter shows up from wormhole and hit our sun. Some portion of solar gas is lost in the impact. Now sun's nuclear reaction is not strong enough, and sun's death is in the near. The impact happened on the other side of the sun, so it was not observed on earth.
 
