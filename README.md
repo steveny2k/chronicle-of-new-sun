@@ -8,9 +8,9 @@ Welcome to create pull-request to modify anything (stories, writings, etc.), and
 
 `Table of Contents`
 
-[`0-chronicles`][0-chronicles]
+[__0-chronicles__][0-chronicles]
 
-[`1-Story-of-the-alien-ZE2306`][1-Story-of-the-alien-ZE2306]
+[__1-Story-of-the-alien-ZE2306__][1-Story-of-the-alien-ZE2306]
 
 [0-chronicles]: 0-chronicles
 [1-Story-of-the-alien-ZE2306]: 1-Story-of-the-alien-ZE2306
