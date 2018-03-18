@@ -1,5 +1,5 @@
 # chronicle of new sun
-This is a science fiction that everyone can write together.
+This is a science fantasy fiction that everyone can write together.
 Welcome to create pull-request to modify anything (stories, writings, etc.), and even create your own branch and version of story.
 
 - 0-chronicles.md: Simplified main storyline. Other short story shall not conflict with the stories told in this file. If needed, occasionally, this file can be modified to match the plot in short stories.
