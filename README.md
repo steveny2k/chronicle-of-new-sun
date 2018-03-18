@@ -6,6 +6,11 @@ Welcome to create pull-request to modify anything (stories, writings, etc.), and
 
 - 1-Story-of-the-alien-ZE2306 and other short stories: They are short stories told from each character's point-of-view (POV). Their plot shall not conflict with the storyline in 0-chronicles.md.
 
+Table of Contents
+
 [`0-chronicles`][0-chronicles]
 
+[`1-Story-of-the-alien-ZE2306`][1-Story-of-the-alien-ZE2306]
+
 [0-chronicles]: 0-chronicles
+[1-Story-of-the-alien-ZE2306]: 1-Story-of-the-alien-ZE2306
